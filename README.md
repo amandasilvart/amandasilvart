@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Amanda Silva</h1>
-<h3 align="center">Desenvolvedora Front-end em formação.</h3>
+<h3 align="center">Desenvolvedora SaleForce Júnior.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
